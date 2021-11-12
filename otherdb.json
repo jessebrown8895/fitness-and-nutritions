@@ -1,0 +1,172 @@
+{
+    "exercises": [
+            {
+                "pull": [
+                {
+                    "back":[
+                    {
+                        "name": "Deadlift", 
+                        "explanation": "The deadlift is a movement where your hips hinge backward to lower down and pick up a weighted barbell or kettlebell from the floor. Your back is flat throughout the movement. Some benefits of performing deadlifts include strengthening and gaining more definition in your upper and lower back, glutes, and hamstrings.", 
+                        "reps": 15, 
+                        "series": 3 
+                    },
+                    {
+                        "name": "Bent-Over Row", 
+                        "explanation": "Lift the bar from the rack, bend forward at the hips, and keep the back straight with a slight bend in the knees. Lower the bar towards the floor until the elbows are completely straight, and keep the back flat as the bar is pulled towards the belly button. Then slowly lower the bar to the starting position and repeat.", 
+                        "reps": 15, 
+                        "series": 3 
+                    },
+                    {
+                        "name": "Pull-up", 
+                        "explanation": "A pullup is a challenging upper body exercise where you grip an overhead bar and lift your body until your chin is above that bar. It's a hard exercise to execute — so hard, in fact, that a U.S. Marine can receive a passing score on the annual physical fitness test without doing pullups at all.", 
+                        "reps": 15, 
+                        "series": 3 
+                    },
+                    {
+                        "name": "Seated Row", 
+                        "explanation": "The seated row is an exercise you can do with a weight machine to work the muscles in your upper back. Specifically, the seated row targets the muscles in your upper back and also the latissimus dorsi — a muscle on the outer side of the chest wall.", 
+                        "reps": 15, 
+                        "series": 3 
+                    },
+                    {
+                        "name": "Lat Pull-Down", 
+                        "explanation": "The pulldown exercise works the back muscles and is performed at a workstation with adjustable resistance, usually plates. While seated, you pull a hanging bar down toward you, to reach chin level, and then release it back up with control for one repetition.", 
+                        "reps": 15, 
+                        "series": 3 
+                    }],
+            "bicept": [
+                {
+                    "name": "Barbell Curl", 
+                    "explanation": "A weight training exercise intended to develop the biceps brachii’s size, endurance or strength, in which a dumbbell or similar weighted object is held in the hand with the arm extended and lifted to complete flexion of the arm at the elbow or, when developing both biceps brachii, using a barbell to perform the same movement with both arms.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Chin Up", 
+                    "explanation": "an exercise in which one hangs by the hands from a support (such as a horizontal bar) and pulls oneself up until the chin is level with the support specifically : such an exercise done with the palms facing inward — compare pull-up.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Hammer Curl", 
+                    "explanation": "A hammer curl is a variation of the biceps curl and targets muscles in the upper and lower arm. While this exercise is almost always performed with a dumbbell, you can also perform it with cables or bands. The hammer curl is a great addition to an upper-body strength routine. Also Known As: Neutral grip biceps curl.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Incline Dumbell Curl", 
+                    "explanation": "The incline dumbbell curl is a variation of the dumbbell curl and an exercise used to build bigger biceps. The biceps is a tricky (and fun) muscle to target and putting yourself in various degrees of incline can help manipulate the range of motion for either a tighter contraction or deeper stretch.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Cable Curl", 
+                    "explanation": "A cable curl is essentially a standing dumbbell curl performed using the cable machine instead of dumbbells. ... Hook a straight bar attachment up to a cable machine, and set the pulley to the low position. Grab the bar with your arms extended and hands shoulder-width apart, palms facing away from you.", 
+                    "reps": 15, 
+                    "series": 3 
+                }]
+        }]
+    },
+    {
+        "push": [
+        {
+            "chest": [
+                {
+                    "name": "Bench Press", 
+                    "explanation": "a weightlifting exercise in which one lies supine on a bench and with both hands pushes a barbell or fixed weight upward from chest level to arm's length and then lowers it back to chest level: usually repeated in sets. one complete repetition of this exercise.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Cable Fly", 
+                    "explanation": "The standing cable fly is a single-joint move intended to maximize tension in a single muscle group. As such, you want to feel the cable chest fly all the way from the stretch at the start of the move to the intense contraction at the end.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Staggered Press-Up", 
+                    "explanation": "A staggered push-up is an anaerobic exercise that is a body weight movement performed in the prone position by bending your elbows at 90 degrees while your arms are used to help lower and raise your torso. ... Moreover and most importantly, staggered push-ups are a true test of strength, stability, endurance, and power.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Close Grip Barbell Bench Bress", 
+                    "explanation": "The close grip barbell bench press is a compound exercise performed by lying on a flat bench and lifting a weighted barbell. This type of bench press uses a closer grip than a traditional bench press. The posture of a close grip bench press puts special emphasis on the triceps", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Decline Barbell Bench Bress", 
+                    "explanation": "In a decline bench press, the bench is set to 15 to 30 degrees on a decline. This angle places your upper body on a downward slope, which activates the lower pectoral muscles as you push weights away from your body. When part of a complete chest routine, decline bench presses can help your pecs look more defined.", 
+                    "reps": 15, 
+                    "series": 3 
+                }],
+            "tricepts": [
+                {
+                    "name": "Cable Rope Tricept Pushdown", 
+                    "explanation": "The rope triceps pushdown exercise uses a rope to target the triceps muscle for better definition and bigger arms. ... As you push down towards your thighs, split the rope apart at the bottom and isolate the tricep muscle. 4.) Hold this position for a count and return back up to the starting position.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Tricept Dips", 
+                    "explanation": "Tricep dips can be performed on parallel bars at your gym or even on a playground. You hold your entire body weight up with your arms extended and feet hovering over the floor, ankles crossed. Lower your body until your elbows reach a 90-degree angle before returning to your starting position.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Diamond Push-Ups", 
+                    "explanation": "Diamond push-ups, also known as triangle push-ups, are a more advanced variation of the classic push-up. Practice diamond push-ups by bringing your hands close together to form a diamond or triangle shape below your chest. Keep your back and legs in a straight line and push yourself off the ground.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Bench Dip", 
+                    "explanation": "Bench dips are a bodyweight exercise designed to activate muscles in your arms, shoulders, and chest. They are also known as triceps dips. Perform bench dips by sitting on a bench or elevated surface with your lower body extended to the floor in front of you.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "One-Arm Overhead Extension", 
+                    "explanation": "Hold a dumbbell in one hand directly behind your head, with your elbow bent and pointed towards the ceiling. Extend through your elbow until your arm is straight and the dumbbell is directly above you. Lower your arm back to starting position and repeat.", 
+                    "reps": 15, 
+                    "series": 3 
+                }]
+        }]},
+    {
+        "lowerBody": [
+        {   
+            "Legs": [
+                {
+                    "name": "Back Squat", 
+                    "explanation": "Sit back into hips and keep the back straight and the chest up, squatting down so the hips are below the knees. ... From the bottom of the squat, press feet into the ground and push hips forward to return to the top of the standing position.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Front Squat", 
+                    "explanation": "A front squat is a squat that is performed while holding a barbell except, unlike with a back squat, the bar is held in front of the chest. This places more force on the upper body while still working the glutes, hamstrings, and hips.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Romainian Deadlift", 
+                    "explanation": "The Romanian deadlift (RDL) is a traditional barbell lift used to develop the strength of the posterior chain muscles, including the erector spinae, gluteus maximus, hamstrings and adductors. When done correctly, the RDL is an effective exercise that helps strengthen both the core and the lower body with one move.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Walking Lunges", 
+                    "explanation": "Walking lunges are a variation on the static lunge exercise. Instead of standing back upright after performing a lunge on one leg, as you would in a static bodyweight lunge, you “walk” forward by lunging out with the other leg. ... Walking lunges strengthen the leg muscles as well as the core, hips, and glutes.", 
+                    "reps": 15, 
+                    "series": 3 
+                },
+                {
+                    "name": "Lateral Lunge", 
+                    "explanation": "How to do lateral lunges. Stand with your feet hip-width apart. Take a big step to the side with your left leg, then bend your left knee, push hips back and lower until your left knee is bent 90 degrees. This should take around two seconds. Push back to start.", 
+                    "reps": 15, 
+                    "series": 3 
+                }]
+        }]
+    }]
+}
