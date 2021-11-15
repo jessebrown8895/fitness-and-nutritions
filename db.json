@@ -49,42 +49,42 @@
         },
         {
             "name": "Barbell Curl", 
-            "muscle": "bicept",
+            "muscle": "bicepts",
             "explanation": "A weight training exercise intended to develop the biceps brachii's size, endurance or strength, in which a dumbbell or similar weighted object is held in the hand with the arm extended and lifted to complete flexion of the arm at the elbow or, when developing both biceps brachii, using a barbell to perform the same movement with both arms.", 
             "reps": 15, 
             "sets": 3 
         },
         {
             "name": "Chin Up", 
-            "muscle": "bicept",
+            "muscle": "bicepts",
             "explanation": "an exercise in which one hangs by the hands from a support (such as a horizontal bar) and pulls oneself up until the chin is level with the support specifically : such an exercise done with the palms facing inward — compare pull-up.", 
             "reps": 15, 
             "sets": 3 
         },
         {
             "name": "Hammer Curl", 
-            "muscle":"bicept",
+            "muscle":"bicepts",
             "explanation": "A hammer curl is a variation of the biceps curl and targets muscles in the upper and lower arm. While this exercise is almost always performed with a dumbbell, you can also perform it with cables or bands. The hammer curl is a great addition to an upper-body strength routine. Also Known As: Neutral grip biceps curl.", 
             "reps": 15, 
             "sets": 3 
         },
         {
             "name": "Incline Dumbell Curl", 
-            "muscle": "bicept",
+            "muscle": "bicepts",
             "explanation": "The incline dumbbell curl is a variation of the dumbbell curl and an exercise used to build bigger biceps. The biceps is a tricky (and fun) muscle to target and putting yourself in various degrees of incline can help manipulate the range of motion for either a tighter contraction or deeper stretch.", 
             "reps": 15, 
             "sets": 3 
         },
         {
             "name": "Cable Curl", 
-            "muscle": "bicept",
+            "muscle": "bicepts",
             "explanation": "A cable curl is essentially a standing dumbbell curl performed using the cable machine instead of dumbbells. ... Hook a straight bar attachment up to a cable machine, and set the pulley to the low position. Grab the bar with your arms extended and hands shoulder-width apart, palms facing away from you.", 
             "reps": 15, 
             "sets": 3 
         },
         {
              "name": "Bench Press", 
-             "muscle": "chest"
+             "muscle": "chest",
             "explanation": "a weightlifting exercise in which one lies supine on a bench and with both hands pushes a barbell or fixed weight upward from chest level to arm's length and then lowers it back to chest level: usually repeated in sets. one complete repetition of this exercise.", 
             "reps": 15, 
             "sets": 3 
@@ -153,13 +153,14 @@
         },
         {
             "name": "Back Squat", 
-            "muscle": "legs"
+            "muscle": "legs",
             "explanation": "Sit back into hips and keep the back straight and the chest up, squatting down so the hips are below the knees. ... From the bottom of the squat, press feet into the ground and push hips forward to return to the top of the standing position.", 
             "reps": 15, 
             "sets": 3 
         },
         {
             "name": "Front Squat", 
+            "muscle":"legs",
             "explanation": "A front squat is a squat that is performed while holding a barbell except, unlike with a back squat, the bar is held in front of the chest. This places more force on the upper body while still working the glutes, hamstrings, and hips.", 
             "reps": 15, 
             "sets": 3 
@@ -174,7 +175,7 @@
         {
             "name": "Walking Lunges", 
             "muscle": "legs",
-            "explanation": "Walking lunges are a variation on the static lunge exercise. Instead of standing back upright after performing a lunge on one leg, as you would in a static bodyweight lunge, you "walk" forward by lunging out with the other leg. ... Walking lunges strengthen the leg muscles as well as the core, hips, and glutes.", 
+            "explanation": "Walking lunges are a variation on the static lunge exercise. Instead of standing back upright after performing a lunge on one leg, as you would in a static bodyweight lunge, you 'walk' forward by lunging out with the other leg. ... Walking lunges strengthen the leg muscles as well as the core, hips, and glutes.", 
             "reps": 15, 
             "sets": 3 
         },
